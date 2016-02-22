@@ -1,4 +1,5 @@
 function doIt() {
+    alert("hi");
   var windowHeight = $(window).height();
   var minusHeight = $('#toprow').height();
       minusHeight = minusHeight + $('#logorow').height();
